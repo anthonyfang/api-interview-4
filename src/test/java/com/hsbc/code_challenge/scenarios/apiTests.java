@@ -46,7 +46,7 @@ public class apiTests extends BaseTest {
     @Test
     public void exercise2_getProductTest(){
         final int productId = 2;
-        Product expected = new Product("Spring Framework Guru Mug", 2, "https://springframework.guru/wp-content/uploads/2015/04/spring_framework_guru_coffee_mug-r11e7694903c348e1a667dfd2f1474d95_x7j54_8byvr_512.jpg", 11.95, "168639393495335947", 0);
+        Product expected = new Product("Spring Framwork Guru Mug", 2, "https://springframework.guru/wp-content/uploads/2015/05/spring_framework_guru_coffee_mug-r11e7694903c348e1a667dfd2f1474d95_x7j54_8byvr_512.jpg", 11.95, "168639393495335947", 0);
         Product actual =
             given().
                 contentType("application/json").
