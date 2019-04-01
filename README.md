@@ -1,6 +1,6 @@
 # GSNA - API tests coding challenge
 
-1) Download this file: https://drive.google.com/open?id=1XXUGNUi7dm7bqIRX6qh1WJWDqt7DWdT8
+1) Download this file: https://my.pcloud.com/publink/show?code=XZCte67ZLGAaFgfyl0XXqzarhktJeX1dx4fV
 This is a jar file jar with API application.
 
 2) To run the jar you need to type (copy-paste might cause an error “Error: Could not find or load main class ?jar”) following command
