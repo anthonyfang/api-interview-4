@@ -4,7 +4,7 @@
 or here: https://pan.baidu.com/s/1T-xLdBcZWEfm9SoiENuM-w  passcode: ureg
 This is a jar file jar with API application.
 
-2）edit .m2/settings.xml and add
+2) edit .m2/settings.xml and add
   <mirrors>
     <mirror>
       <id>alimaven</id>
